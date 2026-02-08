@@ -40,33 +40,37 @@ Trabajo el **ciclo completo del dato**, desde la obtención y limpieza hasta el 
 
 ## 🧩 Perfil Técnico
 
-### 🧑‍💻 Programación
+### 💻 Programación
 - **Python** → análisis de datos, modelado, scripts
 - **SQL** → consultas, joins, agregaciones
 
 ### 📊 Análisis y Visualización de Datos
-- pandas · NumPy  
+- Pandas · NumPy  
 - Matplotlib · Seaborn  
 - Plotly
 
 ### 🤖 Machine Learning
-- scikit-learn  
+- Scikit-learn  
 - Modelos supervisados y no supervisados  
 - Evaluación de modelos (accuracy, precision, recall, RMSE)  
 - Feature engineering básico  
 
 ### ☁️ Cloud & MLOps
-- Fundamentos de **AWS**
-- Despliegue básico de modelos
-- Versionado y reproducibilidad
+- **AWS** — S3, Lambda, EC2, EventBridge  
+- Configuración de permisos con **IAM**  
+- Configuración y uso de **RDS**  
+- Monitorización y logs con **CloudWatch**  
+- Despliegue básico de modelos y scripts  
+- Automatización de procesos  
+- Versionado y reproducibilidad  
 
 ### 🧠 Inteligencia Artificial Generativa
-- Modelos de lenguaje (LLMs – nivel introductorio)
+- Modelos de lenguaje (LLMs — nivel introductorio)
 - Experimentación y casos de uso prácticos
 
 ### 🛠 Herramientas
 - Git & GitHub  
-- APIs REST  
+- Consumo de APIs REST  
 - Jupyter Notebooks  
 
 ---
@@ -121,7 +125,6 @@ Incorporarme como **Data Scientist / Machine Learning Engineer junior** en equip
 
 ## 🤝 Contacto
 
-📍 **Madrid, España**  
 📧 **Email:** mcayuelasanjuan@gmail.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/cayuelasanjuan/  
 🐙 **GitHub:** https://github.com/mcayuela89  

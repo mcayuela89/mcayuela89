@@ -1,4 +1,4 @@
-# 👋 Miguel Ángel Cayuela
+# 👋 Miguel Ángel Cayuela Sanjuan
 
 📊 **Data Scientist | Machine Learning & IA aplicada a negocio**  
 📍 Madrid, España  

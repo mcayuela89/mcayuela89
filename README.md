@@ -1,6 +1,6 @@
 # 👋 Miguel Ángel Cayuela Sanjuan
 
-📊 **Data Scientist | Machine Learning & IA aplicada a negocio**  
+📊 **Data Scientist | Machine Learning & IA**  
 📍 Madrid, España  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

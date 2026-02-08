@@ -93,17 +93,29 @@ Trabajo el **ciclo completo del dato**, desde la obtención y limpieza hasta el 
 
 ---
 
-### 📌 *[Nombre del proyecto]*
-**Objetivo:** *[problema a resolver]*  
+### 📌 Cinematic Data Analysis · TMDb
 
-**Responsabilidades:**
-- *[acción concreta]*  
-- *[acción concreta]*  
+Objetivo: analizar datos cinematográficos reales para identificar patrones de popularidad, géneros, votaciones e ingresos a partir de información obtenida de la API pública de The Movie Database (TMDb).
 
-**Resultado:**
-- *[impacto o conclusión]*  
+Responsabilidades:
 
-🔗 **Repositorio:** *[enlace]*
+- Consumo de API REST y extracción de datos de películas
+
+- Limpieza, transformación y estructuración de datos (ETL) con Python
+
+- Generación de datasets en formato CSV para análisis reproducible
+
+- Análisis exploratorio de datos (EDA) y visualización de insights clave
+
+Resultado:
+
+- Identificación de géneros y características asociados a mayor popularidad y recaudación
+
+- Análisis de relaciones entre duración, presupuesto, votaciones y taquilla
+
+- Pipeline de análisis documentado y reutilizable en Jupyter Notebooks
+
+🔗 Repositorio: https://github.com/mcayuela89/Cinematic_Data_Analysis_TMDb
 
 ---
 

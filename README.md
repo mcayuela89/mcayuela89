@@ -130,4 +130,3 @@ Incorporarme como **Data Scientist / Machine Learning Engineer junior** en equip
 
 ⭐ Gracias por visitar mi perfil.  
 Estoy abierto a **nuevas oportunidades, colaboración y proyectos interesantes**.
-

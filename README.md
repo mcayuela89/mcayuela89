@@ -77,19 +77,29 @@ Trabajo el **ciclo completo del dato**, desde la obtención y limpieza hasta el 
 
 ## 🧪 Proyectos Destacados
 
-### 📌 Análisis y Modelado Predictivo
-**Objetivo:** identificar patrones y generar insights a partir de datos reales.
+### 📌 GameScope VideoGame Intelligence Pipeline ML API
 
-**Responsabilidades:**
-- Obtención, limpieza y preparación de datos  
-- Análisis exploratorio (EDA) y visualización  
-- Entrenamiento y evaluación de modelos de Machine Learning  
 
-**Resultado:**
-- Identificación de variables clave  
-- Modelo interpretable para apoyo a la toma de decisiones  
+Objetivo: construir un sistema end-to-end que extrae datos de videojuegos desde la API de RAWG, los procesa y los expone para análisis + predicción mediante una API.
 
-🔗 **Repositorio:** *[enlace]*
+Responsabilidades:
+
+- Extracción desde API (RAWG) con paginación y control de límites
+- Carga masiva (initial) y carga incremental diaria (daily) automatizada
+- Persistencia en S3 + control de estado/lock para evitar solapes
+- Transformación y carga a PostgreSQL (RDS/Aurora) con esquema consistente
+- Entrenamiento de modelos para predecir “éxito” (según métricas definidas)
+- API con FastAPI: endpoints tipo /predict, /ask-text (según diseño final)
+- Monitorización y depuración con CloudWatch
+
+Resultado:
+
+- Pipeline reproducible y automatizado (initial + daily)
+- Datos centralizados en RDS para análisis y consumo
+- Servicio listo para integrar predicciones en producto
+
+🔗 Repositorio: https://github.com/mcayuela89/GameScope_Video_Game_Intelligence_Pipeline_ML_API
+
 
 ---
 
